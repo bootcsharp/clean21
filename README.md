@@ -2,7 +2,7 @@
 
 ## Assignments
 
-[Well-named small files](https://github.com/clean-code-craft-tcq-1/modular-colorcoder-cs)
+[Well-named small files](https://classroom.github.com/a/tsB0HAZ6)
 
 ## References
 
