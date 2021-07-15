@@ -4,6 +4,8 @@
 
 [Well-named small files](https://classroom.github.com/a/tsB0HAZ6)
 
+[Stats with unit-tests](https://classroom.github.com/a/rtqwwwtA)
+
 ## References
 
 [The Art of Readable Code](https://www.oreilly.com/library/view/the-art-of/9781449318482/) by Dustin Boswell & Trevor Foucher, ISBN 9780596802295
