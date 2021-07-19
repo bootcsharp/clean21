@@ -4,7 +4,9 @@
 
 [Well-named small files](https://classroom.github.com/a/tsB0HAZ6)
 
-[Stats with unit-tests](https://classroom.github.com/a/rtqwwwtA)
+Stats with unit-tests:
+[take the code to your repo](https://github.com/clean-code-craft-tcq-1/statisact-cs) - or -
+[accept GitHub assignment](https://classroom.github.com/a/rtqwwwtA)
 
 ## References
 
